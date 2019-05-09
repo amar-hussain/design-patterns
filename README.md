@@ -1,13 +1,10 @@
-![Design Patterns For Humans](https://cloud.githubusercontent.com/assets/11269635/23065273/1b7e5938-f515-11e6-8dd3-d0d58de6bb9a.png)
-
-***
 
 <p align="center">
-Simplified explanation of design patterns
+    <b>Simplified explanation of design patterns</b>
 </p>
-***
+
 Introduction
-=================
+-----------------
 
 Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
 
